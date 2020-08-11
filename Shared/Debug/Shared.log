@@ -1,0 +1,9 @@
+﻿Build started 12/03/2017 11:17:12.
+     1>Project "C:\Users\b3014342\Desktop\RealTimeAss2\RealTimeAss2\Shared\Shared.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         Shared.vcxproj -> C:\Users\b3014342\Desktop\RealTimeAss2\RealTimeAss2\Collision\Debug\Shared.lib
+     1>Done Building Project "C:\Users\b3014342\Desktop\RealTimeAss2\RealTimeAss2\Shared\Shared.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
