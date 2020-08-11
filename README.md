@@ -1,1 +1,2 @@
 # Collision-Assignment
+A real time 3d techniques for games assignment, that is culmination of several practicals, with ultimate goal of achieving robust collision detection of multiple moving spheres in the form of a broad and a narrow stage. The Shared project is a dependency of the Collision project that contains the code for my submission for the assignment. With the code of the collision specific practical, being the starting point of the assignment it was the second of two large assigments the first being the hierarchy animation project.
